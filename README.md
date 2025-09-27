@@ -1,78 +1,85 @@
-# 3-Year Software Developer Learning Roadmap & Resources
 
-## Year 1: Foundations
+### Year 1: Programming & DSA Foundations
 
-| Month    | Goals                         | Activities                                                                                  | Resources                                                                                      | Checklist                                      |
-|----------|-------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Months 1-2 | Programming Basics (Python/C++) | - Learn programming fundamentals: variables, loops, conditionals- Make simple projects (calculator, guessing game) | - [Codecademy](https://www.codecademy.com/learn/learn-python-3), [Sololearn](https://www.sololearn.com/)  - [FreeCodeCamp Tutorials](https://www.freecodecamp.org/)                                                          | 🟢 Learn fundamentals🟢 Complete 2 projects  |
-| Months 3-4 | Intro to Data Structures      | - Study arrays, linked lists, stacks, queues- Solve 20 beginner DSA problems- Build a task tracker project | - [William Fiset's DS Course on YouTube](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u), [FreeCodeCamp](https://www.freecodecamp.org/)                                            | 🟢 Solve 20 DSA problems🟢 Build 1 project |
-| Months 5-6 | GitHub & LinkedIn Setup       | - Set up GitHub, LinkedIn- Learn Git basics: version control, branches, PRs- Post beginner projects | - [GitHub Profile Optimization by Amigoscode](https://www.youtube.com/watch?v=HkdAHXoRtos), [Traversy Media Git Tutorials](https://www.youtube.com/watch?v=SWYqp7iY_Tc)                                  | 🟢 Create profiles🟢 Push first repo       |
-| Months 7-8 | Web Development Basics       | - Learn HTML, CSS, JavaScript- Build 2 responsive webpages- Start portfolio website | - [freeCodeCamp Web Development](https://www.freecodecamp.org/learn/), [HTML & CSS Crash Course on YouTube](https://www.youtube.com/watch?v=yfoY53QXEnI)                                        | 🟢 Build 2 webpages🟢 Deploy portfolio    |
-| Months 9-10 | Basic Algorithms             | - Study sorting algorithms- Solve 30 beginner problems on HackerRank/LeetCode            | - [Sorting Algorithms by Tech with Tim on YouTube](https://www.youtube.com/watch?v=pkkFqlG0Hds), [HackerRank](https://www.hackerrank.com/), [LeetCode](https://leetcode.com/)                                      | 🟢 Solve 10 sorting problems🟢 Complete 30 problems |
-| Months 11-12 | Build & Deploy Mini Projects | - Learn deployment (Vercel/Netlify)- Build CRUD app (Node.js/Django)- Deploy it     | - [Traversy Media Node.js/Django Tutorials](https://www.youtube.com/user/TechGuyWeb)                                         | 🟢 Deploy project🟢 Complete full-stack project |
-
-***
-
-## Year 2: Intermediate Skills & Competitive Programming
-
-| Month     | Goals                       | Activities                                                                                      | Resources                                                                                         | Checklist                                         |
-|-----------|-----------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| Months 1-2 | Advanced DSA & Algorithms    | - Learn heaps, graphs, tries, Dijkstra’s, BFS/DFS, DP (knapsack)- Solve 30 advanced DSA problems, 20 algorithmic problems | - [Educative.io "Ace the Coding Interview"](https://educative.io/courses/grokking-the-coding-interview), [Codeforces](https://codeforces.com/), [YouTube DP Tutorials by Errichto](https://www.youtube.com/watch?v=oBt53YbR9Kk)             | 🟢 Solve 30 advanced problems🟢 Solve 20 algorithms |
-| Months 3-4 | Build Intermediate Full-Stack Projects | - Create social media or blog clone (React + Express.js or Django)- Deploy and share projects | - [Traversy Media React & Express Tutorials](https://www.youtube.com/user/TechGuyWeb), [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/)                                        | 🟢 Build full-stack project🟢 Publish on GitHub |
-| Months 5-6 | Start Hackathons             | - Join beginner hackathons for teamwork and prototyping- Practice pitching solutions       | - [Devpost](https://devpost.com/), [MLH Hackathons](https://mlh.io/), [Pitching Tutorials on YouTube](https://www.youtube.com/watch?v=LUuEjQNhHqk)                                            | 🟢 Participate in 2 hackathons🟢 Build hackathon projects |
-| Months 7-8 | Internship Preparation        | - Apply for 20+ internships on LinkedIn, Internshala- Mock interviews & system design prep | - [Internshala](https://internshala.com/), [Pramp](https://www.pramp.com/), [Interviewing.io](https://interviewing.io/)                                                            | 🟢 Apply to internships🟢 Conduct 2 mock interviews |
-| Months 9-12 | Competitive Programming      | - Solve 200+ problems on Codeforces/LeetCode- Participate in contests- Improve speed   | - [Codeforces](https://codeforces.com/), [LeetCode](https://leetcode.com/), [YouTube Competitive Programming by Errichto](https://www.youtube.com/@Errichto)                                  | 🟢 Solve 100+ problems🟢 Improve contest ranking |
+| Month    | Goals                         | Activities     | Resources     | Checklist     |
+|----------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| 1-2      | Programming Basics (Python/C++) | - Learn syntax, variables, loops, functions, logic, file operations - Complete simple projects (calculator, number guessing, to-do CLI) | [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3) [Sololearn](https://www.sololearn.com/) [W3Schools Python](https://www.w3schools.com/python/) | 🟢 Basics learned 🟢 2 projects complete |
+| 3        | Deeper Core Concepts | - Understand types, input/output, error handling, debugging - Practice 10-12 console projects | [FreeCodeCamp Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) [Replit](https://replit.com/) | 🟢 Practice scripts 🟢 Debug code       |
+| 4-5      | DSA Step 1: Arrays & Strings   | - Learn arrays, array operations, strings, basic string manipulations  - Solve 20 array & string problems | [Roadmap.sh DSA Arrays](https://roadmap.sh/datastructures-and-algorithms) [Programiz DSA](https://www.programiz.com/dsa) [LeetCode Easy Arrays](https://leetcode.com/tag/array/) | 🟢 20 problems solved                  |
+| 6        | DSA Step 2: Linked Lists       | - Singly, doubly, circular lists - Implementation in chosen language - 10 linked list problems | [GeeksforGeeks Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/) [HackerRank Linked List](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript/linked-lists) | 🟢 Understand types 🟢 Problems x10     |
+| 7        | DSA Step 3: Stacks & Queues    | - Stack, queue, circular queue, deque (concepts and implementation) - Solve 10 problems each | [GFG Stacks](https://www.geeksforgeeks.org/stack-data-structure/) [GFG Queues](https://www.geeksforgeeks.org/queue-data-structure/) [CodeChef Practice DSA](https://www.codechef.com/practice) | 🟢 Implemented both 🟢 20 problems      |
+| 8        | Recursion & Basic Sorting      | - Recursion basics, tail, tree recursion - Bubble, selection, insertion sort | [FreeCodeCamp Recursion](https://www.freecodecamp.org/news/recursion-in-javascript-explained/) [GFG Sorting](https://www.geeksforgeeks.org/sorting-algorithms/) | 🟢 Recursive code 🟢 10 sorting tasks   |
+| 9        | DSA Step 4: Searching & Hashing| - Linear/Binary search, Hash Table concepts and COLLISION HANDLING - Solve 10 problems | [GFG Searching](https://www.geeksforgeeks.org/searching-algorithms/) [W3Schools Hash Tables](https://www.w3schools.com/algorithms/algorithms_hash_table.php) | 🟢 10 search/hash solved               |
+| 10       | GitHub & LinkedIn Setup        | - Create & optimize GitHub profile, first repos - Learn Git: commits, branches, merges | [GitHub Official Guide](https://docs.github.com/en/get-started) [Amigoscode GitHub Optimizer](https://www.youtube.com/watch?v=HkdAHXoRtos) | 🟢 Profile setup 🟢 Repo pushed         |
+| 11       | Web Basics: HTML/CSS/JS        | - Learn HTML, CSS, JS fundamentals - 2 responsive pages - Portfolio homepage | [Love Babbar Web Playlist](https://www.youtube.com/watch?v=Vi9bxu-M-ag&list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD) [freeCodeCamp Web](https://www.freecodecamp.org/learn/) | 🟢 Webpages live 🟢 Portfolio started   |
+| 12       | Mini-Projects & Deployment     | - CRUD app (Flask/Node/Django) - Host with deployment tools | [Traversy Node.js Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) [Vercel Deploy](https://vercel.com/) | 🟢 CRUD app live 🟢 Full-stack checked  |
 
 ***
 
-## Year 3: Advanced Skills & Placement Preparation
+### Year 2: Comprehensive DSA Practice, Projects & CP
 
-| Month      | Goals                       | Activities                                                                                      | Resources                                                                                  | Checklist                                   |
-|------------|-----------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------|
-| Months 1-2 | Advanced System Design       | - Study caching, load balancing, scalability- Build scalable system design project         | - [System Design Primer on GitHub](https://github.com/donnemartin/system-design-primer), [Udemy Scalable Architecture Courses](https://www.udemy.com/course/scalable-web-architecture/), [YouTube System Design Tutorials](https://www.youtube.com/results?search_query=system+design+interviews) | 🟢 Learn concepts🟢 Complete system design project |
-| Months 3-4 | Specialization Projects      | - Choose area (AI, blockchain, data science, etc.)- Build 2 specialization projects- Contribute to open source | - [Coursera Specialization Courses](https://www.coursera.org/), [Hacktoberfest](https://hacktoberfest.com/), [GitHub Open Source](https://github.com/)                                | 🟢 Build 2 specialization projects🟢 Contribute to 3+ open source |
-| Months 5-6 | Placement Preparation        | - Solve 50+ hard LeetCode problems- Prepare HR/behavioral and technical interview skills    | - [LeetCode Premium](https://leetcode.com/), [Glassdoor](https://www.glassdoor.co.in/index.htm), [Mock Interviews](https://www.pramp.com/)                                             | 🟢 Solve hard problems🟢 Conduct 3 mock interviews |
-| Months 7-8 | Final Placement Push         | - Apply for 20+ companies targeting 30 LPA+ roles- Ace coding, system design & behavioral interviews | - [LinkedIn](https://www.linkedin.com/), [AngelList](https://angel.co/), [Pramp](https://www.pramp.com/), [Interviewing.io](https://interviewing.io/)                                             | 🟢 Apply widely🟢 Secure placement offers |
-
-***
-
-# Best YouTube Channels for Learning Web Development & Programming Skills
-
-| Skill                  | Recommended YouTube Channel / Playlist                                                   |
-|------------------------|-----------------------------------------------------------------------------------------|
-| HTML, CSS, JS Basics   | [Web Development Full Course – Love Babbar](https://www.youtube.com/watch?v=Vi9bxu-M-ag&list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD)                                               |
-| React                  | [React Tutorial for Beginners – Chai aur code](https://youtu.be/vz1RlUyrc3w?si=DENbgxD7rIPGLqoN)                                           |
-| JavaScript             | [JavaScript for Beginners – Namaste Javascript](https://youtu.be/pN6jk0uUrD8?si=i9ADbNaa-tYIT-cK)                                         |
-| MongoDB                | [MongoDB Crash Course – Thapa](https://youtu.be/ExcRbA7fy_A?si=zA-E0XltTigTXjjV)                                                           |
-| Python                 | [Python for Beginners – Code With Harry](https://youtu.be/7wnove7K-ZQ?si=nev9GgpJtwQWV9VP)                                                |
-| TypeScript             | [TypeScript Crash Course – Hitesh Chaudhary](https://youtu.be/iPGXk-i-VYU?si=WJqM_eZS1thW_25i) [TypeScript Full Course – freeCodeCamp](https://youtu.be/30LWjhZzg50?si=Ml9jcynuJV_dFcyK)    |
-| Flask                  | [Flask for Beginners – freeCodeCamp](https://youtu.be/Z1RJmh_OqeA?si=28bjpYogM3q0ceFV)                                                    |
-| SQL                    | [SQL Tutorial for Beginners – Apna College](https://youtu.be/hlGoQC332VM?si=9MOIDhsXLy3o-Vtx)                                             |
-| Spring Boot            | [Spring Boot Tutorial – Engineering Digest](https://youtu.be/1993zSY5UBI?si=8Y0KuMEysrl6oVpc)                                             |
-| Next.js                | [Next.js Crash Course – Traversy Media](https://youtu.be/mTz0GXj8NN0)                                                                        |
-| Machine Learning       | [Machine Learning – Krish Naik](https://youtu.be/JxgmHe2NyeY?si=U4AMSuY8o-0pXSCo)                                                          |
-| Docker                 | [Docker Tutorial – Harkirat Singh](https://youtu.be/fSmLiOMp2qI?si=0lm0Hj2OVWWAfeFb)                                                      |
-| Node.js                | [Node.js Crash Course – Sheriyans](https://youtu.be/T55Kb8rrH1g?si=dVTQ5MCOEF_hoPJI)                                                        |
-| GraphQL                | [GraphQL Tutorial – freeCodeCamp](https://youtu.be/ed8SzALpx1Q)                                                                              |
-| Generative AI          | [Web Accessibility – freeCodeCamp](https://youtu.be/pSVk-5WemQ0?si=tj2Nlue_9xhLZRtr)                                                       |
-| Agile Development      | [Agile Development Basics – Edureka](https://youtu.be/ypg4uPQTGo0?si=HUUBhJOYKBNacNFd)                                                    |
+| Month    | Goals                         | Activities     | Resources     | Checklist     |
+|----------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 1-2  | Trees & Basic Graphs         | - Binary tree, BST, traversals (inorder, preorder, postorder), AVL/heap intro - Solve 20 tree problems | [TakeUForward Trees](https://takeuforward.org/data-structure/binary-tree-data-structure/) [GFG BST](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) | 🟢 Tree code written 🟢 20 solved             |
+| 3    | Advanced Graphs & Recursion  | - DFS, BFS, adjacency list/matrix, simple graph problems | [William Fiset Graphs](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) [LeetCode Graphs](https://leetcode.com/tag/graph/) | 🟢 Traverse graphs 🟢 10+ solved              |
+| 4    | Time & Space Complexity      | - Big O, complexity calculation, optimization techniques - Solve problems, optimize code | [Big O Cheatsheet](https://www.bigocheatsheet.com/) [FreeCodeCamp Complexity](https://www.freecodecamp.org/news/big-o-notation-time-and-space-complexity-explained/) | 🟢 Explain & calculate Big O                  |
+| 5-6  | Intermediate DSA: Heaps, Hashing & More | - Heap/priority queue - Trie, hash sets/maps - Practice 25-30 intermed. DSA problems | [GFG Heap](https://www.geeksforgeeks.org/heap-data-structure/) [LeetCode Heaps](https://leetcode.com/tag/heap-priority-queue/) | 🟢 25-30 DSA problems solved                  |
+| 7-8  | Full-Stack Project           | - Build blog/social clone using ReactJS + Express/Django - Public repo, basic tests | [Traversy React Fullstack](https://www.youtube.com/watch?v=4UZrsTqkcW4) [Heroku Deployment](https://www.heroku.com/) | 🟢 Project live 🟢 Source on GitHub           |
+| 9    | Hackathon Readiness          | - Team up on Devpost, build MVP in 48 hours - Pitch project, demo live             | [MLH Hackathons](https://mlh.io/) [Devpost](https://devpost.com/) | 🟢 2 hackathons participated 🟢 Demo ready    |
+| 10   | Internship Applications      | - Prepare resume using mock reviews - Apply for 20+ internships, crack tests | [Internshala](https://internshala.com/) [Pramp Mock Interviews](https://www.pramp.com/) [Interviewing.io](https://interviewing.io/) | 🟢 Resume checked 🟢 Interviews done           |
+| 11-12| Competitive Programming      | - 200+ CP/DSA problems on LeetCode/Codeforces/HackerRank - Level-up logic and contest speed | [LeetCode](https://leetcode.com/) [Codeforces](https://codeforces.com/) [HackerRank DSA](https://www.hackerrank.com/domains/data-structures) | 🟢 100+ problems solved 🟢 Ranking improved     |
 
 ***
 
-# Additional Free Resources
+### Year 3: Advanced Skills, System Design & Placement
 
-- **Free Certifications:** Explore a curated list of free certification courses to validate your skills.  
-  GitHub: [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
-
-- **Best Tech Communities:** Join vibrant technology communities to network, learn, and share knowledge.  
-  GitHub: [GlobalTechTalks/communities](https://github.com/GlobalTechTalks/communities?tab=readme-ov-file)
+| Month    | Goals                         | Activities     | Resources     | Checklist     |
+|----------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| 1-2      | System Design Fundamentals    | - Learn caching, sharding, load balancing, CAP, pub-sub - Scale basic project                        | [System Design Primer](https://github.com/donnemartin/system-design-primer) [YouTube System Design](https://www.youtube.com/results?search_query=system+design+interviews) | 🟢 Concepts clear 🟢 System design project      |
+| 3-4      | Tech Specializations          | - Focus AI, Blockchain, Data Science, etc. - 2 major projects - Start open source contributions      | [Coursera Specializations](https://www.coursera.org/) [Hacktoberfest](https://hacktoberfest.com/) [GitHub OSS](https://github.com/) | 🟢 2 projects built 🟢 3+ OSS contributions    |
+| 5-6      | Placement & Interview Mastery | - 50+ LeetCode hards - HR, system design, behavioral Qs, mocks | [LeetCode Premium](https://leetcode.com/) [Glassdoor](https://www.glassdoor.co.in/index.htm) [Pramp](https://www.pramp.com/) | 🟢 Hards solved 🟢 3+ mocks done      |
+| 7-8      | Final Placement Push          | - Apply 20+ top companies (30+ LPA roles) - Track interviews, get offer(s) | [LinkedIn](https://www.linkedin.com/) [AngelList](https://angel.co/) [Interviewing.io](https://interviewing.io/) | 🟢 Apps sent 🟢 Placement offers secured      |
 
 ***
 
-# How to Use This Roadmap
+### Best Stepwise Resources for DSA and Programming Practice
 
-1. **Follow month-wise progression** to build concepts gradually.
-2. **Combine learning with practice**—solve problems daily and build projects.
-3. **Use recommended video tutorials** to deepen understanding.
-4. **Engage with communities and hackathons** to gain real-world experience.
-5. **Apply continuously for internships and jobs**, and prepare well for interviews.
+| Resource Purpose       | Resource Name & Link |
+|-----------------------|-------------------------------------------------------------------------|
+| Beginner Python       | [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)   |
+| C++                   | [Programiz C++](https://www.programiz.com/cpp-programming)   |
+| Web HTML/CSS/JS       | [freeCodeCamp Responsive Web](https://www.freecodecamp.org/learn/)       |
+| DSA (General)         | [Roadmap.sh DSA](https://roadmap.sh/datastructures-and-algorithms)       |
+| DSA Practice Easy     | [LeetCode Arrays](https://leetcode.com/tag/array/)                       |
+| DSA Practice Medium   | [LeetCode Mediums](https://leetcode.com/problemset/algorithms/?difficulty=Medium) |
+| DSA Practice Hard     | [LeetCode Hards](https://leetcode.com/problemset/algorithms/?difficulty=Hard)      |
+| Structured DSA Guide  | [GeeksforGeeks Complete DSA Roadmap](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/) |
+| Code Practice         | [HackerRank DSA](https://www.hackerrank.com/domains/data-structures)     |
+| Competitive Programming| [Codeforces](https://codeforces.com/)                                   |
+| YouTube Python        | [Code With Harry Python](https://www.youtube.com/watch?v=7wnove7K-ZQ)    |
+| YouTube C++           | [Apna College C++ DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) |
+| YouTube Trees/Graphs/DP| [Take U Forward](https://www.youtube.com/@takeUforward) |
+| Learning Boards       | [Blind 75 DSA Sheet](https://blind75.com/) [Grind 75](https://www.techinterviewhandbook.org/grind75) |
+| Practice Sets         | [NeetCode 150](https://neetcode.io/practice)                            |
+| Big O Complexity      | [Big O CheatSheet](https://www.bigocheatsheet.com/)                      |
+
+***
+
+### Extra Tips
+
+- Start each topic with short tutorials, then solve related problem sets on LeetCode, CodeChef, or HackerRank.[3][4]
+- Participate in mock interviews and coding contests regularly in year 2 and 3.
+- After every DSA or web project, share on GitHub and LinkedIn for networking and visibility.
+
+***
+
+### How to Use This Roadmap
+
+- Progress sequentially and don’t skip DSA steps—more DSA at the start leads to better grasp later.[2][1]
+- Pick 1-2 practice platforms to track improvement.
+- Use free and up-to-date resources from the table above for hands-on problem-solving.
+- Review all solved problems before interviews or placement season.
+
+***
+
+This roadmap delivers deep foundational + strong DSA, with fully working resource links, structured problem sheets, and direct paths to real-world developer skills as of 2025.[4][2][3]
